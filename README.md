@@ -1,4 +1,4 @@
-# Guia 1 Desarrollo de Software para Móviles 📱💻
+# Guia 1 - Desarrollo de Software para Móviles 📱💻
 ### Introduccion Java y Android ☕👽
 
 - Carnet: ML161665
